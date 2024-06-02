@@ -8,16 +8,15 @@ communication and conflict resolution skills that are valuable in any workplace.
 every single day and how important a team environment is for finishing projects
 
 # 💫 Projects:
-My latest project [shimmer](https://shimmer.fly.dev) is a MVC Social Media web app built with Ruby on Rails. It has likeness to FaceBook. You can
+My latest project shimmer is a MVC Social Media web app built with Ruby on Rails. It has likeness to FaceBook. You can
 make posts, like posts, customze your profile and and people as friends. Front end was styled with TailwindCSS/Flowbite
 Some of the hardships I had with this project are around Turbo and how it is still in it's infacy so there is not too much documentation. I am glad I learned it,
 it is an extremely powerful tool that works well inside ROR.
 
-I have also made [thyme-capsule](https://thyme-capsule.fly.dev/), a basic event making app with profile features. A user can create and attend events.
+I have also made thyme-capsule, a basic event making app with profile features. A user can create and attend events.
 
 All apps were deployed using fly.io and PSQL as their database.
 
-I also have other minor apps in my repos, such as a calculator app and etch-and-sketch which are vanilla HTML, JS, and CSS
 
 ## 🌐 Some of my socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ILikeBooTea) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MySoxAreNotRed) 
