@@ -3,7 +3,7 @@ Hey all! My name is Boston Essary, but some people call me Bossy!
 
 I am a Jr. Software Engineer who likes building web apps with Ruby on Rails.
 
-I am currenlty working @strongmind as a junior software engineer but as far as other professional work, I have 5+ years in various customer service roles and 2+ years in IT experience. The customer service roles provided me with great
+I am currenlty working at Strongmind as a junior software engineer but as far as other professional work, I have 5+ years in various customer service roles and 2+ years in IT experience. The customer service roles provided me with great
 communication and conflict resolution skills that are valuable in any workplace. As for the IT roles, they keep providing me with new knowledge of PCs and troubleshooting
 every single day and how important a team environment is for finishing projects
 
